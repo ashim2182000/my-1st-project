@@ -1,0 +1,73 @@
+#game {
+  text-align: center;
+  color: red;
+}
+#image {
+  height: 40px;
+  width: 70%;
+}
+#div1 {
+  background-color: aqua;
+}
+#a {
+  float: left;
+  color: red;
+  font-size: 24px;
+  margin-left: 0%;
+  padding-left: 315px;
+}
+#t {
+  float: right;
+  color: red;
+  font-size: 24px;
+  margin-right: 0%;
+  padding-right: 315px;
+}
+#v {
+  clear: both;
+}
+#x {
+  font-size: 20px;
+}
+#y {
+  font-size: 20px;
+}
+.gf {
+  font-size: 20px;
+}
+#amit {
+  width: 20%;
+}
+#fig {
+  font-size: 16px;
+}
+details[open] > summary {
+  background-color: aqua;
+}
+table {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td,
+th {
+  border: 2px solid black;
+  padding: 15px;
+  font-size: 18px;
+}
+tr {
+  text-align: center;
+}
+caption {
+  font-size: 22px;
+}
+form {
+  font-size: 18px;
+}
+#font {
+  font-size: 25px;
+}
+p {
+  font-size: 25px;
+}
